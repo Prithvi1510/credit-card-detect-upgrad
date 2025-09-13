@@ -1,0 +1,53 @@
+,Feature,Ranking,Selected
+0,months_as_customer,1,True
+1,age,1,True
+2,policy_deductable,1,True
+3,policy_annual_premium,1,True
+4,capital-loss,1,True
+5,incident_hour_of_the_day,1,True
+6,total_claim_amount,1,True
+7,witnesses,1,True
+8,model_age,1,True
+9,vehicle_ratio,1,True
+10,policy_state_OH,1,True
+11,policy_state_IN,1,True
+12,log_total_claim,1,True
+13,claim_per_vehicle,1,True
+14,deductable_premium_ratio,1,True
+15,claim_premium_ratio,1,True
+16,insured_occupation_Transport,1,True
+17,insured_education_level_Low,1,True
+18,insured_education_level_Medium,1,True
+19,insured_occupation_Service,1,True
+20,insured_occupation_Technical,1,True
+21,policy_csl_500/1000,1,True
+22,policy_csl_250/500,1,True
+23,authorities_contacted_Police,1,True
+24,incident_severity_Total Loss,1,True
+25,incident_severity_Minor Damage,1,True
+26,collision_type_Side Collision,1,True
+27,collision_type_Unknown,1,True
+28,collision_type_Rear Collision,1,True
+29,incident_type_Vehicle Theft,1,True
+30,incident_type_Parked Car,1,True
+31,insured_relationship_spouse,1,True
+32,auto_make_Mass-market,1,True
+33,incident_severity_Trivial Damage,1,True
+34,authorities_contacted_Fire,1,True
+35,authorities_contacted_Other,1,True
+36,property_damage_Unknown,1,True
+37,incident_state_Northeast,1,True
+38,police_report_available_YES,1,True
+39,property_damage_YES,1,True
+40,incident_state_South,2,False
+41,police_report_available_Unknown,3,False
+42,injury_ratio,4,False
+43,property_ratio,5,False
+44,number_of_vehicles_involved,6,False
+45,capital-gains,7,False
+46,insured_sex_MALE,8,False
+47,bodily_injuries,9,False
+48,incident_type_Single Vehicle Collision,10,False
+49,daysSincePolicy,11,False
+50,incident_weekday,12,False
+51,insured_relationship_non-family,13,False
